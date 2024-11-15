@@ -1,5 +1,5 @@
 //PRINT ALL THE SUBARRAYS
-/*
+
 
 #include<iostream>
 using namespace std;
@@ -21,10 +21,10 @@ int main(){
     
     return 0;
 }
-*/
+
 
 //MAXIMUM SUBARRAY SUM WITHOUT KADANES ALGORITHM
-/*
+
 #include<iostream>
 #include<climits>
 using namespace std;
@@ -45,7 +45,7 @@ int main(){
     cout << "Maximum subarray sum = " << max_sum;
     return 0;
 }
-*/
+
 
 //KADANE'S ALGORITHM
 
